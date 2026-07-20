@@ -212,12 +212,11 @@ Additional training through multiple local web development courses.
 <a href="mailto:Reymondjradames@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="portfolioto:https://reymondjradames.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge" />
+<a href="https://reymondjradames.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href= "linkedinto:https://www.linkedin.com/in/reymodjradames">
-<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-lightgrey?style=for-the-badge&logo=linkedin" />
-
+<a href="https://www.linkedin.com/in/reymodjradames" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
