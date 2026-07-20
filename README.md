@@ -89,9 +89,18 @@ Main Stack: React · Express.js · NestJS · SQL Databases
 
 ## 💡 What I Do
 
-✔ Build scalable web applications&nbsp;&nbsp;&nbsp;✔ Develop REST APIs&nbsp;&nbsp;&nbsp;✔ Design responsive interfaces
-✔ Create reusable React components&nbsp;&nbsp;&nbsp;✔ Database modeling&nbsp;&nbsp;&nbsp;✔ Authentication & Authorization
-✔ CRUD systems&nbsp;&nbsp;&nbsp;✔ Dashboard development&nbsp;&nbsp;&nbsp;✔ API integrations&nbsp;&nbsp;&nbsp;✔ Performance optimization
+<div align="center">
+
+| | | |
+|:---|:---|:---|
+| 🌐 **Scalable Web Apps** | 🔌 **REST APIs** | 📱 **Responsive Interfaces** |
+| End-to-end apps built to grow with the business | Clean, documented endpoints for any client | Pixel-perfect UI across devices |
+| 🧩 **Reusable Components** | 🗄 **Database Modeling** | 🔐 **Auth & Authorization** |
+| React component libraries built for reuse | Efficient schemas for SQL databases | Secure login, roles & permissions |
+| 📝 **CRUD Systems** | 📊 **Dashboards** | ⚡ **Performance Optimization** |
+| Full create/read/update/delete flows | Data-rich admin & analytics panels | Faster load times, leaner code |
+
+</div>
 
 ---
 
@@ -203,8 +212,13 @@ Additional training through multiple local web development courses.
 <a href="mailto:Reymondjradames@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge" />
+<a href="portfolioto:https://reymondjradames.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge" />
+</a>
+<a href= "linkedinto:https://www.linkedin.com/in/reymodjradames">
 <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-lightgrey?style=for-the-badge&logo=linkedin" />
+
+</a>
 
 </div>
 
