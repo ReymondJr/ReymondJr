@@ -200,7 +200,7 @@ Teamwork · Problem Solving · Adaptability · Continuous Learning · Critical T
 
 ## 🎓 Education
 
-**Universidad Abierta para Adultos (UAPA)** — Software Development Student
+**Universidad Abierta para Adultos (UAPA)** — Software Engineer
  
 **Web Development Course** — Alura
 **Web Development Course** — Talento Digital RD
